@@ -36,4 +36,5 @@ public class InterpretDrawingFile {
 		StdDraw.rectangle(x, y, halfwidth, halfheight);
 		}
 	}
-	}
+}
+	
